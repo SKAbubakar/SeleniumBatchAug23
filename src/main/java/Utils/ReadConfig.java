@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.Properties;
-
+//Read Configuration File
 public class ReadConfig {
 	static final String path = ".//src//main//resources//data//config.properties";
 	Properties prop;
